@@ -8,6 +8,7 @@
 				<h2>
 					<a href="<?php the_permalink()?>"><?php the_title()?></a>
 				</h2>
+				<h2>かきくけこ</h2>
 				<p class="postmeta">
 					Posted in <?php the_category(",")?> |
 					<?php get_the_date()?> |
